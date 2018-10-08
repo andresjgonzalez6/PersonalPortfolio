@@ -1,0 +1,1 @@
+This portfolio comes from a template, but all of the projects at the bottom of the page are my work. Projects produced during the University of Arizona Coding Bootcamp are used at portfolio applications. 

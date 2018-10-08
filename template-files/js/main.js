@@ -150,7 +150,7 @@
             if ($(this).val().trim() == '') { $(this).attr('placeholder', 'Email is Required!'); }
         });
         $('textarea.input_fild.contact_message').on('blur', function () {
-            if ($(this).val().trim() == '') { $(this).attr('placeholder', 'Meaasge is Required!'); }
+            if ($(this).val().trim() == '') { $(this).attr('placeholder', 'Message is Required!'); }
         });
         var form = $('#contact-form');
         var formMessages = $('.form-message');
